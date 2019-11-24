@@ -18,3 +18,8 @@ Model 部分我們用 s2s+ attention，大概train了半天，loss 落在 2.4左
 Inference 的時候，用的是schedule sampling ，隨機挑選sample
 
 ## Experimental results and settings
+### input
+<img height="200" src="https://github.com/john81923/chatbot/blob/master/input.png">
+
+### output
+<img height="200" src="https://github.com/john81923/chatbot/blob/master/output.png">
